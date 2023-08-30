@@ -1,6 +1,6 @@
 # FlexBlog - Desenvolvimento de Layout com Flexbox
 
-O FlexBlog é um projeto que explora o uso avançado do CSS Flexbox para criar layouts responsivos e dinâmicos. Este projeto destaca a aplicação prática do Flexbox, bem como o uso de ícones para aprimorar a compreensão do usuário.
+O FlexBlog é um projeto que explora o uso avançado do CSS Flexbox para criar layouts responsivos e dinâmicos. Este projeto destaca a aplicação prática do Flexbox.
 
 ## 🔥 Destaques do Projeto
 
